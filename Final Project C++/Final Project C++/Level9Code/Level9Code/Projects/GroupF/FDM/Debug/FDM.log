@@ -1,0 +1,7 @@
+﻿  StringConversions.cpp
+  DatasimException.cpp
+  TestBSPDE1.cpp
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\ExcelImports.cpp(74,9): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\ExcelImports.cpp(74,9): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+  Generating Code...
+  FDM.vcxproj -> C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\Projects\GroupF\Debug\FDM.exe

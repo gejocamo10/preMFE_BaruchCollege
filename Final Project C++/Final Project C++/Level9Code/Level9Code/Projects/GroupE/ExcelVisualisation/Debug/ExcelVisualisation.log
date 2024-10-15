@@ -1,0 +1,13 @@
+﻿  StringConversions.cpp
+  TestOptionCurve.cpp
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\ExcelImports.cpp(74,9): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\ExcelImports.cpp(74,9): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE'
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\GlobalFunctions.hpp(13,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\GlobalFunctions.hpp(58,20): warning C4018: '<': signed/unsigned mismatch
+  DatasimException.cpp
+  Generating Code...
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\EuropeanOption.cpp(64): warning C4715: 'GERALD::OPTIONS::EuropeanOption::PutCallParity_calculate': not all control paths return a value
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\EuropeanOption.cpp(94): warning C4715: 'GERALD::OPTIONS::EuropeanOption::Pricer': not all control paths return a value
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\EuropeanOption.cpp(109): warning C4715: 'GERALD::OPTIONS::EuropeanOption::Delta': not all control paths return a value
+C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\UtilitiesDJD\ExcelDriver\OptionDataFiles\EuropeanOption.cpp(139): warning C4715: 'GERALD::OPTIONS::EuropeanOption::Theta': not all control paths return a value
+  ExcelVisualisation.vcxproj -> C:\Users\geral\OneDrive\Escritorio\HW\Gerald Level 9 HW Submission\Level9Code\Level9Code\Projects\GroupE\Debug\ExcelVisualisation.exe
